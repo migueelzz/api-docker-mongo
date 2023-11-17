@@ -1,4 +1,4 @@
-# api-docker-mmongo
+# API Rest Node e Mongo
 
 API Rest utilizando Node e MongoDB containerizado com Docker
 

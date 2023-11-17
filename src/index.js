@@ -1,5 +1,4 @@
 const express = require('express');
-// require('./database');
 const mongoose = require('mongoose');
 
 const port = 3000;
